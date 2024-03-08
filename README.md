@@ -17,5 +17,4 @@ I am Austin from Virginia, USA. I current am a student at George Mason Universit
 
 
 
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AustinTorresLopez)](https://github.com/anuraghazra/github-readme-stats)
