@@ -1,8 +1,14 @@
-### Hola 👋, Austin Torres Lopez
-#### Software Developer / Ingenieria De Sistemas
-![Software Developer / Ingenieria De Sistemas](https://cdn.discordapp.com/attachments/1215735211950608514/1215739162733576283/Captura_de_pantalla_2024-03-08_141256.png?ex=65fdd853&is=65eb6353&hm=3f0cdc69b367c3983378484c2c2a3bfc25aeb03b7b53da72f4d49fb3090c63cc&)
+![Software Developer / Ingenieria De Sistemas](https://github.com/AustinTorresLopez/Austin-Torres-Lopez/blob/main/Captura%20de%20pantalla%202024-03-08%20141256.png)
 
-Habilidades: JAVA / Spring / Python / C
+# Hola 👋, Austin Torres Lopez
+I am Austin from Virginia, USA. I current am a student at George Mason University and on my free time like to work on backend development. I enjoy learning languages and frameworks such as Spring. I also enjoy working on unix-based machines and learning about algorithm analysis (leetcode helps!).
+
+## Skills and Experience
+☕JAVA 
+🐍Python
+🐧C
+🧑‍💻Spring
+🐘PostgreSQL
 
 - 🌱 Estoy aprendiendo FrontEnd Development
 - 🌱 I am learning FrontEnd Development
