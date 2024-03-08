@@ -2,8 +2,6 @@
 #### Software Developer / Ingenieria De Sistemas
 ![Software Developer / Ingenieria De Sistemas](https://cdn.discordapp.com/attachments/1215735211950608514/1215739162733576283/Captura_de_pantalla_2024-03-08_141256.png?ex=65fdd853&is=65eb6353&hm=3f0cdc69b367c3983378484c2c2a3bfc25aeb03b7b53da72f4d49fb3090c63cc&)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
 Habilidades: JAVA / Spring / Python / C
 
 - 🌱 Estoy aprendiendo FrontEnd Development
