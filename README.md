@@ -13,4 +13,4 @@ I am Austin from Virginia, USA. I currently am a student at George Mason Univers
 - 🌱 Estoy aprendiendo FrontEnd Development
 - 🌱 I am learning FrontEnd Development
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AustinTorresLopez)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]([https://www.linkedin.com/in/austin-torres-lopez](https://www.linkedin.com/in/austin-torres-lopez-b83669217/)https://www.linkedin.com/in/austin-torres-lopez-b83669217/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AustinTorresLopez)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/austin-torres-lopez/)  
